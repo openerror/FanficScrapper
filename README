@@ -1,0 +1,4 @@
+A simple Python class for
+extracting stories from www.fanfiction.net
+
+Based on BeautifulSoup
